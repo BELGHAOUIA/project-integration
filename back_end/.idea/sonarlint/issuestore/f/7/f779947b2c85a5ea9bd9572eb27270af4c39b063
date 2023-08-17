@@ -1,0 +1,14 @@
+
+`	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡…šÏ
+N
+java:S3655š"7Call "Optional#isPresent()" before accessing the value.(ü«Ê
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(Î§Ò‡
+]
+java:S1126L"BReplace this if-then-else statement by a single method invocation.(å‹¤Çúÿÿÿÿ
+\
+java:S1126h"AReplace this if-then-else statement by a single return statement.(¬ĞçÚûÿÿÿÿ
+\
+java:S1126n"AReplace this if-then-else statement by a single return statement.(¬ĞçÚûÿÿÿÿ
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(Œûş ıÿÿÿÿ

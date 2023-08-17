@@ -1,0 +1,5 @@
+
+[	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(òÉ‚ò
+s	java:S135@"YReduce the total number of break and continue statements in this loop to use at most one.(ª«ï‹þÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óµšö
+V	java:S1256"<This block of commented-out lines of code should be removed.( „±‰üÿÿÿÿ
