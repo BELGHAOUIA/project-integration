@@ -1,1 +1,13 @@
 "# project-integration" 
+![jobApplication-desktop](https://github.com/BELGHAOUIA/project-integration/assets/98391495/b3998845-3a97-495c-9364-16a1b346f066)
+![jobOfferCreate-desktop](https://github.com/BELGHAOUIA/project-integration/assets/98391495/8a5e6c19-76e9-463a-b2f0-c94ef6fb370e)
+![menuCreate-desktop](https://github.com/BELGHAOUIA/project-integration/assets/98391495/668c0486-bd66-4d79-b173-f7a7f6acbd8a)
+![menuProfile-desktop](https://github.com/BELGHAOUIA/project-integration/assets/98391495/bb7aa131-0a41-42da-9d85-c7535ce87e6c)
+![menuView-desktop](https://github.com/BELGHAOUIA/project-integration/assets/98391495/9d658eef-fcd7-44d5-bfd0-07d135fd1f7b)
+![newsTellerCreation-desktop](https://github.com/BELGHAOUIA/project-integration/assets/98391495/b18c216f-0703-4c9b-a14b-22a2ba22c3a9)
+![newsTellerView-desktop](https://github.com/BELGHAOUIA/project-integration/assets/98391495/5510b9f0-20be-456d-894d-7c20c5be1af2)
+![Capture d’écran 2023-02-23 194612](https://github.com/BELGHAOUIA/project-integration/assets/98391495/73d033a0-960c-4be2-8e82-59f90a8d4a1b)
+![dashboard-desktop](https://github.com/BELGHAOUIA/project-integration/assets/98391495/1a683f2c-3251-404e-9773-1f328a2a7c1e)
+![employeeCreate-desktop](https://github.com/BELGHAOUIA/project-integration/assets/98391495/9d12c175-4847-4b30-b17b-5f5f9eac0d67)
+![employeeView-desktop](https://github.com/BELGHAOUIA/project-integration/assets/98391495/a41e6292-fd82-45eb-983a-a641d06bc544)
+![internshipApplication-desktop](https://github.com/BELGHAOUIA/project-integration/assets/98391495/7e35a1fd-5b69-4c1a-9e61-82a9c0443fcb)
