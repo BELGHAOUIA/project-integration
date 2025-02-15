@@ -15,7 +15,6 @@
 ![Capture web_16-8-2023_141554_localhost](https://github.com/BELGHAOUIA/project-integration/assets/98391495/2addf14a-3145-4dac-9682-0ae7a3a9f9b5)
 ![cle usb mail nouveau](https://github.com/BELGHAOUIA/project-integration/assets/98391495/6cb21d72-9347-46b9-937c-e63c0ff5b860)
 ![reset password page](https://github.com/BELGHAOUIA/project-integration/assets/98391495/13924bab-69ca-4ff7-b58c-8e00ad8e5e93)
-![reset password](https://github.com/BELGHAOUIA/project-integration/assets/98391495/2aad72bc-8705-49f1-a142-6f07a13cbb73)
 ![Sans titre](https://github.com/BELGHAOUIA/project-integration/assets/98391495/0ff231f8-e41f-4b7f-98e5-f0af4609dd13)
 ![activer compte page](https://github.com/BELGHAOUIA/project-integration/assets/98391495/072591ec-08e5-4b85-b930-35623181b66b)
 ![activer compte](https://github.com/BELGHAOUIA/project-integration/assets/98391495/6c195aee-9e70-45f4-b9f5-8db3c211501b)
